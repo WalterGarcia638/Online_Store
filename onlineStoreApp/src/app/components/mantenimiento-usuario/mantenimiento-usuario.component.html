@@ -1,0 +1,49 @@
+<div class="container">
+    <div class="container">
+        <div class="jumbotron">
+          <h1>Mantenimiento de Usuario</h1>      
+        </div>
+        <form [formGroup]="form" (ngSubmit)="EnviarDatosUsuario()">
+            <div class="row">
+                <div class="form-group col col-md-4">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" class="form-control" formControlName="nombre" id="nombre">
+                  </div>
+                  <div class="form-group col col-md-4">
+                    <label for="apellido">Apellido:</label>
+                    <input type="text" class="form-control" formControlName="apellido" id="apellido">
+                  </div>
+                  <div class="form-group col col-md-4">
+                    <label for="correo">Correo electrónico:</label>
+                    <input type="email" class="form-control" formControlName="correoElectronico" id="correo">
+                  </div>
+                  <div class="form-group col col-md-3">
+                    <label for="usuario">Nombre de Usuario:</label>
+                    <input type="text" class="form-control" formControlName="nombreUsuario" id="usuario">
+                  </div>
+
+                  <div class="form-group col-sm">
+                    <label for="correo" style="color:white">Role:</label>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                          <label class="input-group-text" for="inputGroupSelect01">Rol</label>
+                        </div>
+                        <select class="custom-select" formControlName="rol" id="inputGroupSelect01">
+                          <option selected>Choose...</option>
+                          <option value="1">One</option>
+                          <option value="2">Two</option>
+                          <option value="3">Three</option>
+                        </select>
+                      </div>
+                  </div>
+                </div>  
+          <button type="submit" class="btn btn-primary">Enviar</button>
+        </form>
+        <div class="footer">
+          <p>Contáctenos:</p>
+          <p>Teléfono: 123-456-7890</p>
+          <p>Correo electrónico: contacto@ejemplo.com</p>
+        </div>
+      </div>
+      
+  </div>

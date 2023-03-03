@@ -1,0 +1,62 @@
+<div class="container mt-4">
+    <h1 class="mb-4">Detalle de Producto</h1>
+    <!-- Formulario para crear o actualizar un producto -->
+    <form>
+      <div class="row">
+        <div class="form-group col col-md-3">
+            <label for="nombre">Marca</label>
+            <input type="text" class="form-control" formControlName="nombre" id="nombre" placeholder="Ingrese el nombre del producto">
+          </div>
+          <div class="form-group col col-md-3">
+            <label for="precio">Precio</label>
+            <input type="number" class="form-control" id="precio" placeholder="Ingrese el precio del producto">
+          </div>
+          <div class="form-group col col-md-3">
+            <label for="precio">Color</label>
+            <input type="number" class="form-control" id="precio" placeholder="Ingrese el precio del producto">
+          </div>
+          <div class="form-group col col-md-12">
+            <label for="descripcion">Descripción</label>
+            <textarea class="form-control" id="descripcion" placeholder="Ingrese la descripción del producto"></textarea>
+          </div>
+      </div>
+      
+      <button type="submit" class="btn btn-primary">Guardar</button>
+    </form>
+
+    <hr>
+
+    <!-- Tabla para mostrar la lista de productos -->
+    <h2 class="mb-4">Lista de Productos</h2>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Descripción</th>
+          <th>Precio</th>
+          <th>Acciones</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Producto 1</td>
+          <td>Descripción del producto 1</td>
+          <td>10.00</td>
+          <td>
+            <button class="btn btn-primary">Editar</button>
+            <button class="btn btn-danger">Eliminar</button>
+          </td>
+        </tr>
+        <tr>
+          <td>Producto 2</td>
+          <td>Descripción del producto 2</td>
+          <td>20.00</td>
+          <td>
+            <button class="btn btn-primary">Editar</button>
+            <button class="btn btn-danger">Eliminar</button>
+          </td>
+        </tr>
+        <!-- Agregar más filas según sea necesario -->
+      </tbody>
+    </table>
+  </div>

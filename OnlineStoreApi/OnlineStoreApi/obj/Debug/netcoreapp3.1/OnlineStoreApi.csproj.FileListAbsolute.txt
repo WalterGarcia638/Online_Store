@@ -1,0 +1,139 @@
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.exe
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.deps.json
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.runtimeconfig.json
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.runtimeconfig.dev.json
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.pdb
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.csproj.AssemblyReference.cache
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.AssemblyInfoInputs.cache
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.AssemblyInfo.cs
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.csproj.CoreCompileInputs.cache
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreApi.StaticWebAssets.Manifest.cache
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.RazorTargetAssemblyInfo.cache
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.csproj.CopyComplete
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.pdb
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.genruntimeconfig.cache
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos portafolio\online_store\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.exe
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.deps.json
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.runtimeconfig.json
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.runtimeconfig.dev.json
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\OnlineStoreApi.pdb
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.csproj.AssemblyReference.cache
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.AssemblyInfoInputs.cache
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.AssemblyInfo.cs
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.csproj.CoreCompileInputs.cache
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreApi.StaticWebAssets.Manifest.cache
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreApi.StaticWebAssets.Pack.cache
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.OnlineStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.OnlineStoreApi.props
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.OnlineStoreApi.props
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.OnlineStoreApi.props
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.RazorTargetAssemblyInfo.cache
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.csproj.CopyComplete
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.dll
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.pdb
+C:\repos\TiendaEnLinea\OnlineStoreApi\OnlineStoreApi\obj\Debug\netcoreapp3.1\OnlineStoreApi.genruntimeconfig.cache
